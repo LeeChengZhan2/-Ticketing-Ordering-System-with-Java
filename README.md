@@ -1,4 +1,4 @@
-# Cinima-Ordering-System-with-Java
+# Cinema-Ordering-System-with-Java
 The attach file is the assignment I did with other 3 teammate when I was studying bachelor of science in managenment mathematics with computing at Tun Abdul Rahman University College. This assignment is do a ticket ordering system program for particular cinema named TARCinemax and this assignment is code by Java.
 
 ### Module
